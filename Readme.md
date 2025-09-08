@@ -81,11 +81,3 @@ Log("frontend", "info", "page", "Home page loaded", "test-user");
 
 ---
 
-## License
-
-MIT
-
-```
-
-I can also make an **even shorter, one-screen README** if you want it ultra-clean for GitHub. Do you want me to do that?
-```
