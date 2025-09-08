@@ -1,4 +1,3 @@
-Got it! Here’s a **concise, copy-paste-ready README** in the same style as your example:
 
 ````markdown
 # URL Shortener
